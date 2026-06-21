@@ -141,10 +141,12 @@ The project contains multiple visualizations including:
 ```
 Diwali-Sales-Analysis/
 │
+├── screenshots
+├── Diwali Sales Data.csv 
 ├── Diwali_Sales_Analysis.ipynb
-├── Diwali Sales Data.csv
+├── License 
 ├── README.md
-└── screenshots
+└── requirements.txt
 ```
 
 ---
