@@ -144,18 +144,8 @@ Diwali-Sales-Analysis/
 ├── Diwali_Sales_Analysis.ipynb
 ├── Diwali Sales Data.csv
 ├── README.md
-└── images/ (Optional)
+└── screenshots
 ```
-
----
-
-## 🚀 Future Improvements
-
-- Interactive dashboard using Power BI or Tableau
-- Customer Segmentation using Machine Learning
-- Sales Prediction Model
-- Recommendation System
-- Interactive dashboard using Plotly
 
 ---
 
