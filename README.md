@@ -58,17 +58,17 @@ The dataset contains customer purchase information during the Diwali festival, i
 
 - Gender Analysis
 
-  ![Gender Analysis](images/01_gender_analysis.png)
+  ![Gender Analysis](01_gender_analysis.png)
 
   
 - Age Group Analysis
 
-  ![Age Group Analysis](images/02_age_group_analysis.png)
+  ![Age Group Analysis](02_age_group_analysis.png)
 
   
 - State-wise Sales Analysis
 
-  ![State Analysis](images/03_state_analysis.png)
+  ![State Analysis](03_state_analysis.png)
 
 
 
@@ -77,12 +77,12 @@ The dataset contains customer purchase information during the Diwali festival, i
   
 - Occupation Analysis
 
-  ![Occupation Analysis](images/04_occupation_analysis.png)
+  ![Occupation Analysis](04_occupation_analysis.png)
 
   
 - Product Category Analysis
 
- ![Product Category Analysis](images/05_product_category_analysis.png)
+ ![Product Category Analysis](05_product_category_analysis.png)
  
 
 - Top Selling Products Analysis
