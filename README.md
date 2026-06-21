@@ -57,34 +57,11 @@ The dataset contains customer purchase information during the Diwali festival, i
 ✔ Exploratory Data Analysis (EDA)
 
 - Gender Analysis
-
-  ![Gender Analysis](01_gender_analysis.png)
-
-  
 - Age Group Analysis
-
-  ![Age Group Analysis](02_age_group_analysis.png)
-
-  
 - State-wise Sales Analysis
-
-  ![State Analysis](03_state_analysis.png)
-
-
-
 - Marital Status Analysis
-
-  
 - Occupation Analysis
-
-  ![Occupation Analysis](04_occupation_analysis.png)
-
-  
 - Product Category Analysis
-
- ![Product Category Analysis](05_product_category_analysis.png)
- 
-
 - Top Selling Products Analysis
 
 ---
